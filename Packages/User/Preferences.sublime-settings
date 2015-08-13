@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Menlo",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_small_statusbar": true,
+	"preview_on_click": false,
+	"remember_full_screen": true,
+	"save_on_focus_lost": true,
+	"show_encoding": false,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

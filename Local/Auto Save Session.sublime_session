@@ -1,0 +1,2335 @@
+{
+	"folder_history":
+	[
+		"/home/mofax/.config/sublime-text-3",
+		"/media/mofax/Files/pps/mofaxplayer",
+		"/media/mofax/Files/github/html5player",
+		"/media/mofax/Files/pps/devfeed",
+		"/media/mofax/Files/KCID/game",
+		"/media/mofax/Files/Mobitill/kitengelaaqua",
+		"/media/mofax/Files/Testify/game",
+		"/media/mofax/Files/pps/bluejs",
+		"/media/mofax/Files/pps/quotediary",
+		"/media/mofax/Files/Mobitill/carwashltd",
+		"/media/mofax/Files/Mobitill/metrotrans",
+		"/home/mofax/Documents/login",
+		"/media/mofax/Files/DIL/cardclinicdemo",
+		"/media/mofax/Files/Mobitill/proxy-con",
+		"/media/mofax/Files/Mobitill/saccodemo",
+		"/media/mofax/Files/Mobitill/demo-two",
+		"/media/mofax/Files/Mobitill/laikipiacounty",
+		"/media/mofax/Files/pps/projectblue",
+		"/media/mofax/Files/Mobitill/carwashltd/node_modules/cookie-parser",
+		"/media/mofax/Files/Mobitill/demo",
+		"/media/mofax/Files/pps/bloggin",
+		"/media/mofax/Files/Tools/di/tp300 source code/Demo_Project",
+		"/media/mofax/Files/Mobitill/mchanga",
+		"/media/mofax/Files/pps/demo",
+		"/media/mofax/Files/pps/dbDjs",
+		"/home/mofax/moserial",
+		"/media/mofax/Files/Tools/di/VISA MASTERCARD/NFC V5_15",
+		"/media/mofax/Files/Tools/di/tp300 source code",
+		"/media/mofax/Files/pps/box-node",
+		"/media/mofax/Files/github/uid"
+	],
+	"last_version": 3083,
+	"last_window_id": 58,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"padi",
+						"padding-left"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"paddin",
+						"padding-bottom"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"ans",
+						"answers"
+					],
+					[
+						"dro",
+						"dropped"
+					],
+					[
+						"que",
+						"questionsObject"
+					],
+					[
+						"mess",
+						"messagebox"
+					],
+					[
+						"pla",
+						"playbox"
+					],
+					[
+						"answe",
+						"answer〔variable〕"
+					],
+					[
+						"drage",
+						"draggable"
+					],
+					[
+						"sou",
+						"soundPath"
+					],
+					[
+						"com",
+						"commentMeta"
+					],
+					[
+						"back",
+						"backtrack"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"questi",
+						"questionsToArray"
+					],
+					[
+						"to",
+						"totalQuestions"
+					],
+					[
+						"a",
+						"answerCorrect"
+					],
+					[
+						"all",
+						"allQuestionsAnswered"
+					],
+					[
+						"arra",
+						"arrayLength"
+					],
+					[
+						"ar",
+						"arrayLength"
+					],
+					[
+						"answer",
+						"answerCorrect"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"backgo",
+						"background-color"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"ex",
+						"expected"
+					],
+					[
+						"exp",
+						"expectedText"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"backr",
+						"background-color"
+					],
+					[
+						"pulse",
+						"pulseButtomMsg"
+					],
+					[
+						"login",
+						"loginButtonMsg"
+					],
+					[
+						"cook",
+						"cookieParser〔variable〕"
+					],
+					[
+						"ser",
+						"serviceTypesFilter"
+					],
+					[
+						"spl",
+						"split"
+					],
+					[
+						"is",
+						"isArray"
+					],
+					[
+						"service",
+						"serviceDetails"
+					],
+					[
+						"transa",
+						"transactionsFilterArray"
+					],
+					[
+						"ter",
+						"terminalsServiceFilterCall"
+					],
+					[
+						"terminal",
+						"terminalsServiceFilter"
+					],
+					[
+						"cal",
+						"callListTransactions"
+					],
+					[
+						"stats",
+						"statusCode"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"servie",
+						"serviceTypesFilter"
+					],
+					[
+						"tras",
+						"transactionsFilter"
+					],
+					[
+						"reset",
+						"resetTransactionList"
+					],
+					[
+						"curre",
+						"currencyKES"
+					],
+					[
+						"serv",
+						"serviceTypes"
+					],
+					[
+						"call",
+						"callListProducts"
+					],
+					[
+						"selec",
+						"selectedCreditor"
+					],
+					[
+						"sele",
+						"selectedCreditor"
+					],
+					[
+						"label",
+						"labelType"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"url",
+						"urlPath"
+					],
+					[
+						"serve",
+						"serveStatic"
+					],
+					[
+						"body",
+						"body"
+					],
+					[
+						"par",
+						"parseJSON"
+					],
+					[
+						"get",
+						"getRawBodyCallback"
+					],
+					[
+						"parse",
+						"parseFormEncoded"
+					],
+					[
+						"bod",
+						"bodyString"
+					],
+					[
+						"conte",
+						"contentType"
+					],
+					[
+						"post",
+						"postBody"
+					],
+					[
+						"content",
+						"contentType"
+					],
+					[
+						"prase",
+						"parsedUrl"
+					],
+					[
+						"pars",
+						"parsedUrl"
+					],
+					[
+						"reeq",
+						"requestPath"
+					],
+					[
+						"r",
+						"routington"
+					],
+					[
+						"request",
+						"requestPath"
+					],
+					[
+						"reg",
+						"registerMethod"
+					],
+					[
+						"commis",
+						"commissionsTotal"
+					],
+					[
+						"curren",
+						"currencyKES"
+					],
+					[
+						"edit",
+						"editAttendantName"
+					],
+					[
+						"editA",
+						"editAttendantId"
+					],
+					[
+						"editAtte",
+						"editAttendantName"
+					],
+					[
+						"attendant",
+						"attendantCommission"
+					],
+					[
+						"rq",
+						"require"
+					],
+					[
+						"argumen",
+						"arguments"
+					],
+					[
+						"return",
+						"returnError"
+					],
+					[
+						"random",
+						"randomPort"
+					],
+					[
+						"pro",
+						"proxy"
+					],
+					[
+						"the",
+						"theHost"
+					],
+					[
+						"relis",
+						"relistTransactions"
+					],
+					[
+						"rel",
+						"relistTransactions"
+					],
+					[
+						"prod",
+						"productCategory"
+					],
+					[
+						"re",
+						"responseString"
+					],
+					[
+						"status",
+						"statusCode"
+					],
+					[
+						"toat",
+						"toast"
+					],
+					[
+						"transactions",
+						"transactionsTotal"
+					],
+					[
+						"cred",
+						"creditorsParent"
+					],
+					[
+						"discountedPro",
+						"discountedProductsParent"
+					],
+					[
+						"transacti",
+						"transactionsAttendantsFilter"
+					],
+					[
+						"tra",
+						"transactionsFilter"
+					],
+					[
+						"on",
+						"onChange"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Social Studies/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/worktodo-kites.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/English/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/css/sound-worktodo2.css",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/js/dragdrop.js",
+				"/media/mofax/Files/KCID/game/sound-worktodo2.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/games/config/PSC1-900002egame.xml",
+				"/media/mofax/Files/KCID/game/css/weather-matchthepicturewiththenames.css",
+				"/media/mofax/Files/KCID/game/weather-matchthepicturewiththenames.html",
+				"/media/mofax/Files/KCID/game/js/weather-matchthepicturewiththenames.js",
+				"/media/mofax/Files/KCID/game/food-givethecorrectname.html",
+				"/media/mofax/Files/KCID/game/js/typeintext.js",
+				"/media/mofax/Files/KCID/game/css/sound-worktodo1.css",
+				"/media/mofax/Files/KCID/game/css/food-givethecorrectname.css",
+				"/media/mofax/Files/KCID/game/css/pom-matchthepicturewiththenames.css",
+				"/media/mofax/Files/KCID/game/soil-fill in the correct answer.html",
+				"/media/mofax/Files/KCID/game/pom-matchthepictureswiththenames.html",
+				"/media/mofax/Files/KCID/game/css/energy-fillinthemissingletters.css",
+				"/media/mofax/Files/KCID/game/energy-fillinthemissingletters.html",
+				"/media/mofax/Files/KCID/game/css/water-picktheusesofwater.css",
+				"/home/mofax/Documents/popcorn time/src/app/lib/providers/tvapi.js",
+				"/home/mofax/Documents/popcorn time/src/app/lib/config.js",
+				"/home/mofax/Documents/popcorn time/src/app/lib/cache.js",
+				"/media/mofax/Files/KCID/game/water-picktheusesofwater.html",
+				"/home/mofax/Documents/popcorn time/src/app/database.js",
+				"/media/mofax/Files/KCID/game/game-matchbodyparts.html",
+				"/media/mofax/Files/KCID/game/js/game-matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/js/game.js",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/Text/SC1-400000qTEXT.htm",
+				"/media/mofax/Files/KCID/game/json/audiovoiceovers.js",
+				"/media/mofax/Files/KCID/game/js/worktodo-kites.js",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/coms/listtransactions.coffee",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/games/index.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/index.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/css/style.css",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/water.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/home.html",
+				"/media/mofax/Transcend/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/database.xml",
+				"/media/mofax/Transcend/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/index.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/index.html",
+				"/media/mofax/Files/KCID/game/css/worktodo-kites.css",
+				"/media/mofax/Files/KCID/game/css/matchbodyparts.css",
+				"/media/mofax/Files/KCID/game/matchbodyparts.html",
+				"/media/mofax/Files/KCID/game/js/events.js",
+				"/media/mofax/Files/KCID/game/json/audiovoiceovers.json",
+				"/media/mofax/Files/KCID/game/js/matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/json/matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/matchbodyparts.json",
+				"/media/mofax/Files/KCID/game/mathbodyparts.json",
+				"/media/mofax/Files/Mobitill/demo/public/js/jquery.comiseo.daterangepicker.min.js",
+				"/media/mofax/Files/Mobitill/carwashltd/public/index.html",
+				"/media/mofax/Files/pps/bluejs/index.js",
+				"/media/mofax/Files/pps/bluejs/lib/routing.js",
+				"/media/mofax/Files/pps/bluejs/lib/route.js",
+				"/media/mofax/Files/pps/bluejs/lib/dispatcher.js",
+				"/media/mofax/Files/pps/bluejs/lib/cookie.js",
+				"/home/mofax/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/media/mofax/Files/pps/bluejs/.gitignore",
+				"/media/mofax/Files/pps/bluejs/package.json",
+				"/media/mofax/Files/pps/bluejs/README",
+				"/media/mofax/Files/pps/bluejs/index.coffee",
+				"/media/mofax/Files/pps/quotediary/gulpfile.js",
+				"/media/mofax/Files/pps/quotediary/package.json",
+				"/media/mofax/Files/pps/quotediary/www/index.html",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/README.md",
+				"/media/mofax/Files/pps/quotediary/.io-config.json",
+				"/media/mofax/Files/pps/quotediary/www/js/app.js",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-whitelist/whitelist.js",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/package.json",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/doc/es/README.md",
+				"/media/mofax/Files/Mobitill/carwashltd/public/templates/users.html",
+				"/media/mofax/Files/Mobitill/carwashltd/frontjs/index.coffee",
+				"/home/mofax/c_libs/ccid-1.4.19/src/ccid_usb.c",
+				"/media/mofax/Files/Mobitill/carwashltd/coms/revoketransaction.coffee",
+				"/media/mofax/Files/Mobitill/carwashltd/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/login.html",
+				"/media/mofax/Files/Mobitill/metrotrans/public/login2.html",
+				"/media/mofax/Files/Mobitill/metrotrans/public/css/loginstyle.css",
+				"/media/mofax/Files/Mobitill/metrotrans/package.json",
+				"/home/mofax/Documents/login/css/style.css",
+				"/home/mofax/Documents/login/index.html",
+				"/home/mofax/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/media/mofax/Files/Music/oneone/oneone.m3u",
+				"/media/mofax/Files/DIL/cardclinicdemo/package.json",
+				"/media/mofax/Files/Mobitill/proxy-con/.settings/settings.json",
+				"/media/mofax/Files/Mobitill/demo-two/bin/www",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/users.html",
+				"/media/mofax/Files/Mobitill/demo-two/public/index.html",
+				"/media/mofax/Files/Mobitill/demo-two/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/demo-two/coms/deleteuser.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/package.json",
+				"/media/mofax/Files/Mobitill/proxy-con/routes/proxyroutes.js",
+				"/media/mofax/Files/Mobitill/demo-two/frontjs/index.js",
+				"/media/mofax/Files/Mobitill/demo-two/coms/listusers.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/coms/adduser.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactionsbyterminal.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/bin/www",
+				"/media/mofax/Files/Mobitill/metrotrans/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listservicetypes.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/package.json",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/coms/rangetransactions.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/index.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/app.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/frontjs/index.js",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactionsbyterminal.js",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listterminals.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/index.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactions.js",
+				"/media/mofax/Files/Mobitill/metrotrans/app.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/css/materialize.css",
+				"/media/mofax/Files/Mobitill/metrotrans/app.js",
+				"/media/mofax/Files/Mobitill/proxy-con/bin/store.js",
+				"/media/mofax/Files/Mobitill/proxy-con/bin/store.coffee",
+				"/media/mofax/Files/Mobitill/proxy-con/proxyroutes/routes.json",
+				"/media/mofax/Files/Mobitill/proxy-con/node_modules/redbird/index.js"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Game",
+					"state",
+					"voice",
+					"redC",
+					"red",
+					"_",
+					"/media/mofax/Files/Music/oneone/",
+					"console.log(data)",
+					"totaltransa",
+					"offload",
+					"sacco fee",
+					"banking Service",
+					"viewchange",
+					"callListTransac",
+					"callLis",
+					"-cell",
+					"creditor",
+					"return",
+					"totaltransactions",
+					"new",
+					"===",
+					"DisplayPic",
+					"keypad",
+					"httpp",
+					"open",
+					"remember",
+					"filter",
+					"unpaid",
+					"  ",
+					"transactionsFilter",
+					"draw"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 320.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"padi",
+						"padding-left"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"paddin",
+						"padding-bottom"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"ans",
+						"answers"
+					],
+					[
+						"dro",
+						"dropped"
+					],
+					[
+						"que",
+						"questionsObject"
+					],
+					[
+						"mess",
+						"messagebox"
+					],
+					[
+						"pla",
+						"playbox"
+					],
+					[
+						"answe",
+						"answer〔variable〕"
+					],
+					[
+						"drage",
+						"draggable"
+					],
+					[
+						"sou",
+						"soundPath"
+					],
+					[
+						"com",
+						"commentMeta"
+					],
+					[
+						"back",
+						"backtrack"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"questi",
+						"questionsToArray"
+					],
+					[
+						"to",
+						"totalQuestions"
+					],
+					[
+						"a",
+						"answerCorrect"
+					],
+					[
+						"all",
+						"allQuestionsAnswered"
+					],
+					[
+						"arra",
+						"arrayLength"
+					],
+					[
+						"ar",
+						"arrayLength"
+					],
+					[
+						"answer",
+						"answerCorrect"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"backgo",
+						"background-color"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"ex",
+						"expected"
+					],
+					[
+						"exp",
+						"expectedText"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"backr",
+						"background-color"
+					],
+					[
+						"pulse",
+						"pulseButtomMsg"
+					],
+					[
+						"login",
+						"loginButtonMsg"
+					],
+					[
+						"cook",
+						"cookieParser〔variable〕"
+					],
+					[
+						"ser",
+						"serviceTypesFilter"
+					],
+					[
+						"spl",
+						"split"
+					],
+					[
+						"is",
+						"isArray"
+					],
+					[
+						"service",
+						"serviceDetails"
+					],
+					[
+						"transa",
+						"transactionsFilterArray"
+					],
+					[
+						"ter",
+						"terminalsServiceFilterCall"
+					],
+					[
+						"terminal",
+						"terminalsServiceFilter"
+					],
+					[
+						"cal",
+						"callListTransactions"
+					],
+					[
+						"stats",
+						"statusCode"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"servie",
+						"serviceTypesFilter"
+					],
+					[
+						"tras",
+						"transactionsFilter"
+					],
+					[
+						"reset",
+						"resetTransactionList"
+					],
+					[
+						"curre",
+						"currencyKES"
+					],
+					[
+						"serv",
+						"serviceTypes"
+					],
+					[
+						"call",
+						"callListProducts"
+					],
+					[
+						"selec",
+						"selectedCreditor"
+					],
+					[
+						"sele",
+						"selectedCreditor"
+					],
+					[
+						"label",
+						"labelType"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"url",
+						"urlPath"
+					],
+					[
+						"serve",
+						"serveStatic"
+					],
+					[
+						"body",
+						"body"
+					],
+					[
+						"par",
+						"parseJSON"
+					],
+					[
+						"get",
+						"getRawBodyCallback"
+					],
+					[
+						"parse",
+						"parseFormEncoded"
+					],
+					[
+						"bod",
+						"bodyString"
+					],
+					[
+						"conte",
+						"contentType"
+					],
+					[
+						"post",
+						"postBody"
+					],
+					[
+						"content",
+						"contentType"
+					],
+					[
+						"prase",
+						"parsedUrl"
+					],
+					[
+						"pars",
+						"parsedUrl"
+					],
+					[
+						"reeq",
+						"requestPath"
+					],
+					[
+						"r",
+						"routington"
+					],
+					[
+						"request",
+						"requestPath"
+					],
+					[
+						"reg",
+						"registerMethod"
+					],
+					[
+						"commis",
+						"commissionsTotal"
+					],
+					[
+						"curren",
+						"currencyKES"
+					],
+					[
+						"edit",
+						"editAttendantName"
+					],
+					[
+						"editA",
+						"editAttendantId"
+					],
+					[
+						"editAtte",
+						"editAttendantName"
+					],
+					[
+						"attendant",
+						"attendantCommission"
+					],
+					[
+						"rq",
+						"require"
+					],
+					[
+						"argumen",
+						"arguments"
+					],
+					[
+						"return",
+						"returnError"
+					],
+					[
+						"random",
+						"randomPort"
+					],
+					[
+						"pro",
+						"proxy"
+					],
+					[
+						"the",
+						"theHost"
+					],
+					[
+						"relis",
+						"relistTransactions"
+					],
+					[
+						"rel",
+						"relistTransactions"
+					],
+					[
+						"prod",
+						"productCategory"
+					],
+					[
+						"re",
+						"responseString"
+					],
+					[
+						"status",
+						"statusCode"
+					],
+					[
+						"toat",
+						"toast"
+					],
+					[
+						"transactions",
+						"transactionsTotal"
+					],
+					[
+						"cred",
+						"creditorsParent"
+					],
+					[
+						"discountedPro",
+						"discountedProductsParent"
+					],
+					[
+						"transacti",
+						"transactionsAttendantsFilter"
+					],
+					[
+						"tra",
+						"transactionsFilter"
+					],
+					[
+						"on",
+						"onChange"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/media/mofax/Files/pps/devfeed/.gitignore",
+					"settings":
+					{
+						"buffer_size": 12,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/media/mofax/Files/pps/devfeed"
+			],
+			"file_history":
+			[
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Social Studies/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/worktodo-kites.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/English/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/css/sound-worktodo2.css",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/js/dragdrop.js",
+				"/media/mofax/Files/KCID/game/sound-worktodo2.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/games/config/PSC1-900002egame.xml",
+				"/media/mofax/Files/KCID/game/css/weather-matchthepicturewiththenames.css",
+				"/media/mofax/Files/KCID/game/weather-matchthepicturewiththenames.html",
+				"/media/mofax/Files/KCID/game/js/weather-matchthepicturewiththenames.js",
+				"/media/mofax/Files/KCID/game/food-givethecorrectname.html",
+				"/media/mofax/Files/KCID/game/js/typeintext.js",
+				"/media/mofax/Files/KCID/game/css/sound-worktodo1.css",
+				"/media/mofax/Files/KCID/game/css/food-givethecorrectname.css",
+				"/media/mofax/Files/KCID/game/css/pom-matchthepicturewiththenames.css",
+				"/media/mofax/Files/KCID/game/soil-fill in the correct answer.html",
+				"/media/mofax/Files/KCID/game/pom-matchthepictureswiththenames.html",
+				"/media/mofax/Files/KCID/game/css/energy-fillinthemissingletters.css",
+				"/media/mofax/Files/KCID/game/energy-fillinthemissingletters.html",
+				"/media/mofax/Files/KCID/game/css/water-picktheusesofwater.css",
+				"/home/mofax/Documents/popcorn time/src/app/lib/providers/tvapi.js",
+				"/home/mofax/Documents/popcorn time/src/app/lib/config.js",
+				"/home/mofax/Documents/popcorn time/src/app/lib/cache.js",
+				"/media/mofax/Files/KCID/game/water-picktheusesofwater.html",
+				"/home/mofax/Documents/popcorn time/src/app/database.js",
+				"/media/mofax/Files/KCID/game/game-matchbodyparts.html",
+				"/media/mofax/Files/KCID/game/js/game-matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/js/game.js",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/Text/SC1-400000qTEXT.htm",
+				"/media/mofax/Files/KCID/game/json/audiovoiceovers.js",
+				"/media/mofax/Files/KCID/game/js/worktodo-kites.js",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/coms/listtransactions.coffee",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/games/index.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/index.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/css/style.css",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/water.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/home.html",
+				"/media/mofax/Transcend/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/database.xml",
+				"/media/mofax/Transcend/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/index.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/index.html",
+				"/media/mofax/Files/KCID/game/css/worktodo-kites.css",
+				"/media/mofax/Files/KCID/game/css/matchbodyparts.css",
+				"/media/mofax/Files/KCID/game/matchbodyparts.html",
+				"/media/mofax/Files/KCID/game/js/events.js",
+				"/media/mofax/Files/KCID/game/json/audiovoiceovers.json",
+				"/media/mofax/Files/KCID/game/js/matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/json/matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/matchbodyparts.json",
+				"/media/mofax/Files/KCID/game/mathbodyparts.json",
+				"/media/mofax/Files/Mobitill/demo/public/js/jquery.comiseo.daterangepicker.min.js",
+				"/media/mofax/Files/Mobitill/carwashltd/public/index.html",
+				"/media/mofax/Files/pps/bluejs/index.js",
+				"/media/mofax/Files/pps/bluejs/lib/routing.js",
+				"/media/mofax/Files/pps/bluejs/lib/route.js",
+				"/media/mofax/Files/pps/bluejs/lib/dispatcher.js",
+				"/media/mofax/Files/pps/bluejs/lib/cookie.js",
+				"/home/mofax/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/media/mofax/Files/pps/bluejs/.gitignore",
+				"/media/mofax/Files/pps/bluejs/package.json",
+				"/media/mofax/Files/pps/bluejs/README",
+				"/media/mofax/Files/pps/bluejs/index.coffee",
+				"/media/mofax/Files/pps/quotediary/gulpfile.js",
+				"/media/mofax/Files/pps/quotediary/package.json",
+				"/media/mofax/Files/pps/quotediary/www/index.html",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/README.md",
+				"/media/mofax/Files/pps/quotediary/.io-config.json",
+				"/media/mofax/Files/pps/quotediary/www/js/app.js",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-whitelist/whitelist.js",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/package.json",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/doc/es/README.md",
+				"/media/mofax/Files/Mobitill/carwashltd/public/templates/users.html",
+				"/media/mofax/Files/Mobitill/carwashltd/frontjs/index.coffee",
+				"/home/mofax/c_libs/ccid-1.4.19/src/ccid_usb.c",
+				"/media/mofax/Files/Mobitill/carwashltd/coms/revoketransaction.coffee",
+				"/media/mofax/Files/Mobitill/carwashltd/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/login.html",
+				"/media/mofax/Files/Mobitill/metrotrans/public/login2.html",
+				"/media/mofax/Files/Mobitill/metrotrans/public/css/loginstyle.css",
+				"/media/mofax/Files/Mobitill/metrotrans/package.json",
+				"/home/mofax/Documents/login/css/style.css",
+				"/home/mofax/Documents/login/index.html",
+				"/home/mofax/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/media/mofax/Files/Music/oneone/oneone.m3u",
+				"/media/mofax/Files/DIL/cardclinicdemo/package.json",
+				"/media/mofax/Files/Mobitill/proxy-con/.settings/settings.json",
+				"/media/mofax/Files/Mobitill/demo-two/bin/www",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/users.html",
+				"/media/mofax/Files/Mobitill/demo-two/public/index.html",
+				"/media/mofax/Files/Mobitill/demo-two/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/demo-two/coms/deleteuser.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/package.json",
+				"/media/mofax/Files/Mobitill/proxy-con/routes/proxyroutes.js",
+				"/media/mofax/Files/Mobitill/demo-two/frontjs/index.js",
+				"/media/mofax/Files/Mobitill/demo-two/coms/listusers.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/coms/adduser.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactionsbyterminal.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/bin/www",
+				"/media/mofax/Files/Mobitill/metrotrans/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listservicetypes.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/package.json",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/coms/rangetransactions.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/index.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/app.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/frontjs/index.js",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactionsbyterminal.js",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listterminals.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/index.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactions.js",
+				"/media/mofax/Files/Mobitill/metrotrans/app.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/css/materialize.css",
+				"/media/mofax/Files/Mobitill/metrotrans/app.js",
+				"/media/mofax/Files/Mobitill/proxy-con/bin/store.js",
+				"/media/mofax/Files/Mobitill/proxy-con/bin/store.coffee",
+				"/media/mofax/Files/Mobitill/proxy-con/proxyroutes/routes.json",
+				"/media/mofax/Files/Mobitill/proxy-con/node_modules/redbird/index.js"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Game",
+					"state",
+					"voice",
+					"redC",
+					"red",
+					"_",
+					"/media/mofax/Files/Music/oneone/",
+					"console.log(data)",
+					"totaltransa",
+					"offload",
+					"sacco fee",
+					"banking Service",
+					"viewchange",
+					"callListTransac",
+					"callLis",
+					"-cell",
+					"creditor",
+					"return",
+					"totaltransactions",
+					"new",
+					"===",
+					"DisplayPic",
+					"keypad",
+					"httpp",
+					"open",
+					"remember",
+					"filter",
+					"unpaid",
+					"  ",
+					"transactionsFilter",
+					"draw"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/media/mofax/Files/pps/devfeed"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/media/mofax/Files/pps/devfeed/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12,
+										12
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 320.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 55,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"padi",
+						"padding-left"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"paddin",
+						"padding-bottom"
+					],
+					[
+						"border-r",
+						"border-radius"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"ans",
+						"answers"
+					],
+					[
+						"dro",
+						"dropped"
+					],
+					[
+						"que",
+						"questionsObject"
+					],
+					[
+						"mess",
+						"messagebox"
+					],
+					[
+						"pla",
+						"playbox"
+					],
+					[
+						"answe",
+						"answer〔variable〕"
+					],
+					[
+						"drage",
+						"draggable"
+					],
+					[
+						"sou",
+						"soundPath"
+					],
+					[
+						"com",
+						"commentMeta"
+					],
+					[
+						"back",
+						"backtrack"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"questi",
+						"questionsToArray"
+					],
+					[
+						"to",
+						"totalQuestions"
+					],
+					[
+						"a",
+						"answerCorrect"
+					],
+					[
+						"all",
+						"allQuestionsAnswered"
+					],
+					[
+						"arra",
+						"arrayLength"
+					],
+					[
+						"ar",
+						"arrayLength"
+					],
+					[
+						"answer",
+						"answerCorrect"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"backgo",
+						"background-color"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"ex",
+						"expected"
+					],
+					[
+						"exp",
+						"expectedText"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"backr",
+						"background-color"
+					],
+					[
+						"pulse",
+						"pulseButtomMsg"
+					],
+					[
+						"login",
+						"loginButtonMsg"
+					],
+					[
+						"cook",
+						"cookieParser〔variable〕"
+					],
+					[
+						"ser",
+						"serviceTypesFilter"
+					],
+					[
+						"spl",
+						"split"
+					],
+					[
+						"is",
+						"isArray"
+					],
+					[
+						"service",
+						"serviceDetails"
+					],
+					[
+						"transa",
+						"transactionsFilterArray"
+					],
+					[
+						"ter",
+						"terminalsServiceFilterCall"
+					],
+					[
+						"terminal",
+						"terminalsServiceFilter"
+					],
+					[
+						"cal",
+						"callListTransactions"
+					],
+					[
+						"stats",
+						"statusCode"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"servie",
+						"serviceTypesFilter"
+					],
+					[
+						"tras",
+						"transactionsFilter"
+					],
+					[
+						"reset",
+						"resetTransactionList"
+					],
+					[
+						"curre",
+						"currencyKES"
+					],
+					[
+						"serv",
+						"serviceTypes"
+					],
+					[
+						"call",
+						"callListProducts"
+					],
+					[
+						"selec",
+						"selectedCreditor"
+					],
+					[
+						"sele",
+						"selectedCreditor"
+					],
+					[
+						"label",
+						"labelType"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"url",
+						"urlPath"
+					],
+					[
+						"serve",
+						"serveStatic"
+					],
+					[
+						"body",
+						"body"
+					],
+					[
+						"par",
+						"parseJSON"
+					],
+					[
+						"get",
+						"getRawBodyCallback"
+					],
+					[
+						"parse",
+						"parseFormEncoded"
+					],
+					[
+						"bod",
+						"bodyString"
+					],
+					[
+						"conte",
+						"contentType"
+					],
+					[
+						"post",
+						"postBody"
+					],
+					[
+						"content",
+						"contentType"
+					],
+					[
+						"prase",
+						"parsedUrl"
+					],
+					[
+						"pars",
+						"parsedUrl"
+					],
+					[
+						"reeq",
+						"requestPath"
+					],
+					[
+						"r",
+						"routington"
+					],
+					[
+						"request",
+						"requestPath"
+					],
+					[
+						"reg",
+						"registerMethod"
+					],
+					[
+						"commis",
+						"commissionsTotal"
+					],
+					[
+						"curren",
+						"currencyKES"
+					],
+					[
+						"edit",
+						"editAttendantName"
+					],
+					[
+						"editA",
+						"editAttendantId"
+					],
+					[
+						"editAtte",
+						"editAttendantName"
+					],
+					[
+						"attendant",
+						"attendantCommission"
+					],
+					[
+						"rq",
+						"require"
+					],
+					[
+						"argumen",
+						"arguments"
+					],
+					[
+						"return",
+						"returnError"
+					],
+					[
+						"random",
+						"randomPort"
+					],
+					[
+						"pro",
+						"proxy"
+					],
+					[
+						"the",
+						"theHost"
+					],
+					[
+						"relis",
+						"relistTransactions"
+					],
+					[
+						"rel",
+						"relistTransactions"
+					],
+					[
+						"prod",
+						"productCategory"
+					],
+					[
+						"re",
+						"responseString"
+					],
+					[
+						"status",
+						"statusCode"
+					],
+					[
+						"toat",
+						"toast"
+					],
+					[
+						"transactions",
+						"transactionsTotal"
+					],
+					[
+						"cred",
+						"creditorsParent"
+					],
+					[
+						"discountedPro",
+						"discountedProductsParent"
+					],
+					[
+						"transacti",
+						"transactionsAttendantsFilter"
+					],
+					[
+						"tra",
+						"transactionsFilter"
+					],
+					[
+						"on",
+						"onChange"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/mofax/.config/sublime-text-3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 6,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/mofax/.config/sublime-text-3"
+			],
+			"file_history":
+			[
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Social Studies/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/worktodo-kites.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/English/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/css/sound-worktodo2.css",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/database.xml",
+				"/media/mofax/Files/KCID/game/js/dragdrop.js",
+				"/media/mofax/Files/KCID/game/sound-worktodo2.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/games/config/PSC1-900002egame.xml",
+				"/media/mofax/Files/KCID/game/css/weather-matchthepicturewiththenames.css",
+				"/media/mofax/Files/KCID/game/weather-matchthepicturewiththenames.html",
+				"/media/mofax/Files/KCID/game/js/weather-matchthepicturewiththenames.js",
+				"/media/mofax/Files/KCID/game/food-givethecorrectname.html",
+				"/media/mofax/Files/KCID/game/js/typeintext.js",
+				"/media/mofax/Files/KCID/game/css/sound-worktodo1.css",
+				"/media/mofax/Files/KCID/game/css/food-givethecorrectname.css",
+				"/media/mofax/Files/KCID/game/css/pom-matchthepicturewiththenames.css",
+				"/media/mofax/Files/KCID/game/soil-fill in the correct answer.html",
+				"/media/mofax/Files/KCID/game/pom-matchthepictureswiththenames.html",
+				"/media/mofax/Files/KCID/game/css/energy-fillinthemissingletters.css",
+				"/media/mofax/Files/KCID/game/energy-fillinthemissingletters.html",
+				"/media/mofax/Files/KCID/game/css/water-picktheusesofwater.css",
+				"/home/mofax/Documents/popcorn time/src/app/lib/providers/tvapi.js",
+				"/home/mofax/Documents/popcorn time/src/app/lib/config.js",
+				"/home/mofax/Documents/popcorn time/src/app/lib/cache.js",
+				"/media/mofax/Files/KCID/game/water-picktheusesofwater.html",
+				"/home/mofax/Documents/popcorn time/src/app/database.js",
+				"/media/mofax/Files/KCID/game/game-matchbodyparts.html",
+				"/media/mofax/Files/KCID/game/js/game-matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/js/game.js",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/Text/SC1-400000qTEXT.htm",
+				"/media/mofax/Files/KCID/game/json/audiovoiceovers.js",
+				"/media/mofax/Files/KCID/game/js/worktodo-kites.js",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/coms/listtransactions.coffee",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/games/index.html",
+				"/media/mofax/Files/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/index.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/css/style.css",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/water.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/templates/home.html",
+				"/media/mofax/Transcend/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/database.xml",
+				"/media/mofax/Transcend/new content/class 1 digital content new platform/Development/author/KICD/primary/standard_1/Science/data/config/index.html",
+				"/media/mofax/Files/Mobitill/kitengelaaqua/public/index.html",
+				"/media/mofax/Files/KCID/game/css/worktodo-kites.css",
+				"/media/mofax/Files/KCID/game/css/matchbodyparts.css",
+				"/media/mofax/Files/KCID/game/matchbodyparts.html",
+				"/media/mofax/Files/KCID/game/js/events.js",
+				"/media/mofax/Files/KCID/game/json/audiovoiceovers.json",
+				"/media/mofax/Files/KCID/game/js/matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/json/matchbodyparts.js",
+				"/media/mofax/Files/KCID/game/matchbodyparts.json",
+				"/media/mofax/Files/KCID/game/mathbodyparts.json",
+				"/media/mofax/Files/Mobitill/demo/public/js/jquery.comiseo.daterangepicker.min.js",
+				"/media/mofax/Files/Mobitill/carwashltd/public/index.html",
+				"/media/mofax/Files/pps/bluejs/index.js",
+				"/media/mofax/Files/pps/bluejs/lib/routing.js",
+				"/media/mofax/Files/pps/bluejs/lib/route.js",
+				"/media/mofax/Files/pps/bluejs/lib/dispatcher.js",
+				"/media/mofax/Files/pps/bluejs/lib/cookie.js",
+				"/home/mofax/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/media/mofax/Files/pps/bluejs/.gitignore",
+				"/media/mofax/Files/pps/bluejs/package.json",
+				"/media/mofax/Files/pps/bluejs/README",
+				"/media/mofax/Files/pps/bluejs/index.coffee",
+				"/media/mofax/Files/pps/quotediary/gulpfile.js",
+				"/media/mofax/Files/pps/quotediary/package.json",
+				"/media/mofax/Files/pps/quotediary/www/index.html",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/README.md",
+				"/media/mofax/Files/pps/quotediary/.io-config.json",
+				"/media/mofax/Files/pps/quotediary/www/js/app.js",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-whitelist/whitelist.js",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/package.json",
+				"/media/mofax/Files/pps/quotediary/plugins/cordova-plugin-device/doc/es/README.md",
+				"/media/mofax/Files/Mobitill/carwashltd/public/templates/users.html",
+				"/media/mofax/Files/Mobitill/carwashltd/frontjs/index.coffee",
+				"/home/mofax/c_libs/ccid-1.4.19/src/ccid_usb.c",
+				"/media/mofax/Files/Mobitill/carwashltd/coms/revoketransaction.coffee",
+				"/media/mofax/Files/Mobitill/carwashltd/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/login.html",
+				"/media/mofax/Files/Mobitill/metrotrans/public/login2.html",
+				"/media/mofax/Files/Mobitill/metrotrans/public/css/loginstyle.css",
+				"/media/mofax/Files/Mobitill/metrotrans/package.json",
+				"/home/mofax/Documents/login/css/style.css",
+				"/home/mofax/Documents/login/index.html",
+				"/home/mofax/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/media/mofax/Files/Music/oneone/oneone.m3u",
+				"/media/mofax/Files/DIL/cardclinicdemo/package.json",
+				"/media/mofax/Files/Mobitill/proxy-con/.settings/settings.json",
+				"/media/mofax/Files/Mobitill/demo-two/bin/www",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/users.html",
+				"/media/mofax/Files/Mobitill/demo-two/public/index.html",
+				"/media/mofax/Files/Mobitill/demo-two/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/demo-two/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/demo-two/coms/deleteuser.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/package.json",
+				"/media/mofax/Files/Mobitill/proxy-con/routes/proxyroutes.js",
+				"/media/mofax/Files/Mobitill/demo-two/frontjs/index.js",
+				"/media/mofax/Files/Mobitill/demo-two/coms/listusers.coffee",
+				"/media/mofax/Files/Mobitill/demo-two/coms/adduser.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactionsbyterminal.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/bin/www",
+				"/media/mofax/Files/Mobitill/metrotrans/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listservicetypes.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/package.json",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/templates/home.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/coms/rangetransactions.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/templates/transactions.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/frontjs/index.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/coms/listtransactions.coffee",
+				"/media/mofax/Files/Mobitill/laikipiacounty/public/index.html",
+				"/media/mofax/Files/Mobitill/laikipiacounty/app.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/frontjs/index.js",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactionsbyterminal.js",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/listterminals.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/index.html",
+				"/media/mofax/Files/Mobitill/metrotrans/coms/rangetransactions.js",
+				"/media/mofax/Files/Mobitill/metrotrans/app.coffee",
+				"/media/mofax/Files/Mobitill/metrotrans/public/css/materialize.css",
+				"/media/mofax/Files/Mobitill/metrotrans/app.js",
+				"/media/mofax/Files/Mobitill/proxy-con/bin/store.js",
+				"/media/mofax/Files/Mobitill/proxy-con/bin/store.coffee",
+				"/media/mofax/Files/Mobitill/proxy-con/proxyroutes/routes.json",
+				"/media/mofax/Files/Mobitill/proxy-con/node_modules/redbird/index.js"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Game",
+					"state",
+					"voice",
+					"redC",
+					"red",
+					"_",
+					"/media/mofax/Files/Music/oneone/",
+					"console.log(data)",
+					"totaltransa",
+					"offload",
+					"sacco fee",
+					"banking Service",
+					"viewchange",
+					"callListTransac",
+					"callLis",
+					"-cell",
+					"creditor",
+					"return",
+					"totaltransactions",
+					"new",
+					"===",
+					"DisplayPic",
+					"keypad",
+					"httpp",
+					"open",
+					"remember",
+					"filter",
+					"unpaid",
+					"  ",
+					"transactionsFilter",
+					"draw"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/mofax/.config/sublime-text-3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/mofax/.config/sublime-text-3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6,
+										6
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,138,30,778,510,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 320.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 58,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
